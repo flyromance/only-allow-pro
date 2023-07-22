@@ -1,6 +1,6 @@
 {
   "name": "only-allow-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": {
     "only-allow": "./bin/index.js"

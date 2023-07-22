@@ -1,0 +1,22 @@
+{
+  "name": "only-allow-pro",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "only-allow": "./bin/index.js"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "semver": "^7.5.4"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}

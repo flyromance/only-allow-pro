@@ -13,6 +13,8 @@ package.json
 
 if current nodejs version is not match 16, vite build will not excuted!
 
+supported names: `["node", "nodejs", "npm", "pnpm", "yarn", "cnpm"]`
+
 # api usage
 
 ```js
